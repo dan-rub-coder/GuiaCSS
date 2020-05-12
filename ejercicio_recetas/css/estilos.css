@@ -1,0 +1,15 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtitulo{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    border: 15px black;
+    padding: 15px;
+}
+#menu_principal{
+    padding: 10px 0px;
+}

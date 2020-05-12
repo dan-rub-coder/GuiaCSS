@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Lacquer';
+  src: url('FreeSans.otf');
+}
+
+h1{
+  font-family: 'Lacquer';
+  font-size: 2em;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+p{
+  font-family: 'Lacquer';
+  font-size: 1.2em;
+}

@@ -1,0 +1,48 @@
+
+@media (max-width:600px){
+    p{
+        color: red;
+        font-size: 16px;
+    }
+
+}
+
+@media (min-width:600px) and (max-width:900px){
+    p{
+        color: gold;
+        font-size: 14px;
+    }
+
+}
+@media (min-width: 600px) {
+    #resumen{
+      display: none;
+    }
+  }
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10%;
+    width: 80%;
+    text-align: center;
+    background-color: beige;
+}
+h1{
+    font-size: 3em;
+    text-shadow: 2px 5px 3px grey;
+}
+
+footer{
+
+	font-size: 0.8em;
+	border-top: solid 3px #1f47a8;
+	padding-top: 10px;
+	margin-top: 15px;
+    text-align: center;
+}
+
+
+img{
+    box-shadow: 12px 7px 8px gray;
+}
+

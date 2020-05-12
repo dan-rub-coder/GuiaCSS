@@ -1,0 +1,28 @@
+header {
+margin-bottom: 60px;
+margin-top: 60px;
+}
+
+body p{
+    color: green;
+  }
+body{
+    background-color: black !important;
+}
+h1{
+    color: blanchedalmond;
+    font-family: arial;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: arial;
+    text-align: center;
+}
+img{
+    display:block;
+    margin:auto;
+    }
+a{
+    color: white;
+}

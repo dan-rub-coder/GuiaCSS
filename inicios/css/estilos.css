@@ -1,0 +1,13 @@
+h1
+{
+ color:blue;
+ font-family:helvetica;
+ text-align: center;
+}  
+p
+{
+ color:chartreuse;
+ font-family:fantasy;
+ text-align: justify;
+ font-size: 20px;
+}
